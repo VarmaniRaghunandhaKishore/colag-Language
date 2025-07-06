@@ -1,10 +1,10 @@
-Project Roadmap
---> Idea Concept
+Colag Language - Development Roadmap
 
---> Design Core Syntax Rules
-
---> Build Basic Interpreter
-
---> Add Syntax Mapper Engine
-
---> Compile to Intermediate Code
+1. Define the core concept and syntax patterns 
+2. Design a flexible syntax parser
+3. Build a basic interpreter engine
+4. Implement syntax mapping (e.g., map Java/Python/C++ styles)
+5. Add intermediate code generation
+6. Explore integration with existing languages (e.g., compile to Python or C backend)
+7. Create documentation and tutorials
+8. Open project for community contribution
