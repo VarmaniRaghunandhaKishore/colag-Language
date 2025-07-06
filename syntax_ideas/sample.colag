@@ -1,0 +1,7 @@
+# Colag Sample Code
+
+print("Hello World")          # Python
+System.out.println("Hi!");   // Java
+cout << "Namaste" << endl;   // C++
+echo("Welcome");             // PHP
+Console.WriteLine("Hey!");   // C#
