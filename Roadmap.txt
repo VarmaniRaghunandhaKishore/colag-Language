@@ -1,0 +1,10 @@
+Project Roadmap
+--> Idea Concept
+
+--> Design Core Syntax Rules
+
+--> Build Basic Interpreter
+
+--> Add Syntax Mapper Engine
+
+--> Compile to Intermediate Code
